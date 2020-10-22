@@ -8,8 +8,8 @@ Reboots or logs users off after specified period of time
 
 ## Command Line  
 <code>
-UptimeMonitor.exe <maxlogintimeinhours> <logoff/reboot>
-Example:
-UptimeMonitor.exe 25 logoff
+UptimeMonitor.exe <maxlogintimeinhours> <logoff/reboot>  
+Example:  
+UptimeMonitor.exe 25 logoff  
 </code>
 
