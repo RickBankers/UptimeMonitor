@@ -9,6 +9,6 @@ Reboots or logs users off after specified period of time
 ## Command Line  
 	UptimeMonitor.exe maxlogintimeinhours logoff,reboot  
 	Example:  
-	UptimeMonitor.exe 25 logoff  
+	UptimeMonitor.exe 24 logoff  
 
 
